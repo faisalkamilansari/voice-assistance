@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.env.dev
+*.db
+.git
+.gitignore
+Dockerfile*
+./ssl/*.crt
+./ssl/*.key

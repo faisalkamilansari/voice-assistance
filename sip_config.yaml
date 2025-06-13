@@ -1,0 +1,10 @@
+api_key: 4f7d7e5a9d2b6eecb139f34a8c7d2d56
+api_secret: b8f5e6a1c9d4b3e9c5f3a0d7b1c2e8a3
+ws_url: ws://192.168.100.117:7880
+redis:
+  address: redis-server:6379
+sip_port: 5060
+rtp_port: 10000-20000
+use_external_ip: true
+logging:
+  level: debug
